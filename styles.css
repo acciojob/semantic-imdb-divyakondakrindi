@@ -10,5 +10,12 @@
     color:orange;
     font-size: larger;
 }
-
+ aside {
+  width: 40%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
 /* Your CSS Code here. */
