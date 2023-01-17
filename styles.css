@@ -1,2 +1,14 @@
+#actor{
+    color: purple;
+    font-size: larger;
+}
+#quote{
+    color:green;
+    font-size: larger;
+}
+#footer{
+    color:orange;
+    font-size: larger;
+}
 
 /* Your CSS Code here. */
